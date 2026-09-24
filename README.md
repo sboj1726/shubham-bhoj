@@ -47,7 +47,7 @@ Python | Shell Scripting | YAML
 Git | GitHub
 
 ### Operating System
-Linux
+Linux | Windows
 
 ## 📌 Featured Projects
 
@@ -76,4 +76,4 @@ transaction logs.
 
 LinkedIn: https://www.linkedin.com/in/shubham-bhoj
 
-Email: your-email@example.com
+Email: bhojshubham1704@gmail.com
