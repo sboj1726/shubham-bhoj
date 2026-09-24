@@ -1,6 +1,6 @@
 # Hi 👋, I'm Shubham Bhoj
 
-### DevOps Engineer | AWS | GCP | Kubernetes | Terraform | CI/CD
+### DevOps Engineer | AWS & GCP | Kubernetes | Terraform | Docker | Jenkins | CI/CD | Cloud Automation
 
 DevOps Engineer with 3+ years of experience in cloud infrastructure,
 CI/CD automation, Infrastructure as Code, containerization, monitoring,
